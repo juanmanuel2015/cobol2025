@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY "Hello/HOLA, Worldog,this is a world?!".
+           DISPLAY "Hello/HOLA, Worldog,this is a World?!".
            STOP RUN.
